@@ -1,13 +1,29 @@
-﻿# Analysis of the quality and satisfaction of life of European citizens
+﻿# Analysis of the quality and satisfaction of life of European young adults 
 ## Aim of the project
 The analysis was made to categorize European countries based on selected economic and social measures that may influence or determine the level of quality of life in a given country, and to examine the factors influencing the level of life satisfaction.
 ## Why I've chosen this topic
-Many countries in the European Union displayed significant economic growth in the recent years, but it didn't solve existing contribure to solveing problems young adults face. On top of that, high renting costs increase, lifestyle and mental diseases and unemplyment contribute to isolation and well-being. 
-Global happiness reports, such as those published by the World Happiness Report, show that countries with higher GDP per capita tend to have higher levels of life satisfaction, however, the issue is much more complex.
-Understanding what influences citizens' happiness can help governments and organizations create policies that improve society's overall well-being. For example, increasing access to public services, improving working conditions, and supporting mental health 
+Many countries in the European Union displayed significant economic growth in the recent years, but it didn't solve existing contribure to solveing problems young adults face. <br>
+On top of that, high renting costs increase, lifestyle and mental diseases and unemplyment contribute to isolation and well-being. 
+Global happiness reports, such as those published by the World Happiness Report, show that countries with higher GDP per capita tend to have higher levels of life satisfaction, however, the issue is much more complex. <br>
+Understanding what influences citizens' happiness can help governments and organizations create policies that improve society's overall well-being. For example, increasing access to public services and improving working conditionsa are shown to positively influence the quality of life.
 ## Questions related to the goal
 In order to fulfill the goal of the analysis I created more specific questions:
 * To what extent can the life satisfaction of people aged 25-34 be explained by variables determining well-being, health and access to care, as well as the economic conditions in the given country?
 * Are life satisfaction and high fertility rates closely related?
 * Which European countries that are geographically and culturally similar are characterized by similar assessments of life satisfaction, health status and fertility?
+## Data used in the project
+Data was downloaded from Eurostat and included seven variables from 2022:
+* GDP - GDP per capita
+* med - reported unmet needs for medical examinations because travel or the waiting list is too expensive or too far
+* ILC HP - percentage of people who say they have not been happy at all in the last 4 weeks
+* ILC_SAT - overall life satisfaction index
+* FER - fertility rate
+* EMPL - indicator of people not in employment or education
+* HLTH - indicator of poor or very poor health
+## Methods used in the analysis
+* Spearman and Pearson correlation 📑
+* Linear Regression 📈
+* Cluster Analysis 🪵
+  
+
 
