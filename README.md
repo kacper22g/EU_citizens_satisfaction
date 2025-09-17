@@ -14,7 +14,7 @@ In order to fulfill the goal of the analysis I created more specific questions:
 ## Data used in the project
 Data was downloaded from Eurostat and included seven variables from 2022:
 * GDP - GDP per capita
-* med - reported unmet needs for medical examinations because travel or the waiting list is too expensive or too far
+* MED - reported unmet needs for medical examinations because travel or the waiting list is too expensive or too far
 * ILC HP - percentage of people who say they have not been happy at all in the last 4 weeks
 * ILC_SAT - overall life satisfaction index
 * FER - fertility rate
@@ -25,5 +25,6 @@ Data was downloaded from Eurostat and included seven variables from 2022:
 * Linear Regression 📈
 * Cluster Analysis 🪵
   
+
 
 
