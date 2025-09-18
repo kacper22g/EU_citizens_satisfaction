@@ -1,6 +1,6 @@
 ﻿# Analysis of the quality and satisfaction of life of European young adults 
 ## Aim of the project
-The analysis was made to categorize European countries based on selected economic and social measures that may influence or determine the level of quality of life in a given country, and to examine the factors influencing the level of life satisfaction.
+The analysis was made to categorize European countries based on selected economic and social measures that may influence or determine the level of quality of life in a given country, and to examine the factors influencing the level of life satisfaction. Original data is stored in the  `data/raw/`.
 ## Why I've chosen this topic
 Many countries in the European Union displayed significant economic growth in the recent years, but it didn't solve existing contribure to solveing problems young adults face. <br>
 On top of that, high renting costs increase, lifestyle and mental diseases and unemplyment contribute to isolation and well-being. 
@@ -24,7 +24,19 @@ Data was downloaded from Eurostat and included seven variables from 2022:
 * Spearman and Pearson correlation 📑
 * Linear Regression 📈
 * Cluster Analysis 🪵
-  
+
+## Requirements to open the project locallly
+* Python **3.9**
+* JupyterLab/Jupyter Notebook
+* Packages from requirements.txt
+
+## Instalation and running 
+ **Clone repo from GitHub**
+   ```bash
+   git clone git@github.com:kacper22g/EU_citizens_satisfaction.git
+   cd EU_citizens_satisfaction 
+
+
 
 
 
