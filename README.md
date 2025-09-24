@@ -20,6 +20,9 @@ Data was downloaded from Eurostat and included seven variables from 2022:
 * FER - fertility rate
 * EMPL - indicator of people not in employment or education
 * HLTH - indicator of poor or very poor health
+## Key results
+* The chosen variables related to  well-being, health and access to care, as well as the economic conditions doesn't strongly correlate or explain the average life satisfaction of adults aged 25-34 in a country. 
+* The classification yielded few clusters containing countries with similar characteristics. The most similar group included Bulgaria, Turkey, North Macedonia, and Montenegro, which stood out due to their citizens' low life satisfaction
 ## Methods used in the analysis
 * Spearman and Pearson correlation 📑
 * Linear Regression 📈
@@ -35,6 +38,7 @@ Data was downloaded from Eurostat and included seven variables from 2022:
    ```bash
    git clone git@github.com:kacper22g/EU_citizens_satisfaction.git
    cd EU_citizens_satisfaction 
+
 
 
 
