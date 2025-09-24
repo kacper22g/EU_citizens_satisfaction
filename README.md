@@ -2,15 +2,14 @@
 ## Aim of the project
 The analysis was made to categorize European countries based on selected economic and social measures that may influence or determine the level of quality of life in a given country, and to examine the factors influencing the level of life satisfaction. Original data is stored in the  `data/raw/`.
 ## Why I've chosen this topic
-Many countries in the European Union displayed significant economic growth in the recent years, but it didn't solve existing contribure to solveing problems young adults face. <br>
-On top of that, high renting costs increase, lifestyle and mental diseases and unemplyment contribute to isolation and well-being. 
-Global happiness reports, such as those published by the World Happiness Report, show that countries with higher GDP per capita tend to have higher levels of life satisfaction, however, the issue is much more complex. <br>
-Understanding what influences citizens' happiness can help governments and organizations create policies that improve society's overall well-being. For example, increasing access to public services and improving working conditionsa are shown to positively influence the quality of life.
+Many countries in the European Union have displayed significant economic growth in recent years, but this has not solved the existing problems that young adults face.
+On top of that, high rental costs increase, lifestyle and mental diseases, and unemployment contribute to isolation and poor well-being. Global happiness reports, such as those published by the World Happiness Report, show that countries with higher GDP per capita tend to have higher levels of life satisfaction; however, the issue is much more complex.
+Understanding what influences citizens' happiness can help governments and organizations create policies that improve society's overall well-being. For example, increasing access to public services and improving working conditions are shown to positively influence the quality of life.
 ## Questions related to the goal
 In order to fulfill the goal of the analysis I created more specific questions:
 * To what extent can the life satisfaction of people aged 25-34 be explained by variables determining well-being, health and access to care, as well as the economic conditions in the given country?
 * Are life satisfaction and high fertility rates closely related?
-* Which European countries that are geographically and culturally similar are characterized by similar assessments of life satisfaction, health status and fertility?
+* Do geographically and culturally related countries exhibit comparable levels of life satisfaction, health, and fertility?
 ## Data used in the project
 Data was downloaded from Eurostat and included seven variables from 2022:
 * GDP - GDP per capita
@@ -27,7 +26,6 @@ Data was downloaded from Eurostat and included seven variables from 2022:
 * Spearman and Pearson correlation 📑
 * Linear Regression 📈
 * Cluster Analysis 🪵
-
 ## Requirements to open the project locallly
 * Python **3.9**
 * JupyterLab/Jupyter Notebook
@@ -38,6 +36,7 @@ Data was downloaded from Eurostat and included seven variables from 2022:
    ```bash
    git clone git@github.com:kacper22g/EU_citizens_satisfaction.git
    cd EU_citizens_satisfaction 
+
 
 
 
